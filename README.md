@@ -62,7 +62,6 @@ BERT-Chatbot/
 ├── requirements.txt
 ├── README.md
 ├── BG IMAGE.png
-└── output_video.mp4
 ```
 
 ---
